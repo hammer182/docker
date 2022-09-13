@@ -1,0 +1,1 @@
+{"virtualbox":{"/configs":{"guestpath":"/configs","hostpath":"C:/DevOps/Alura/Docker/configs","disabled":false,"__vagrantfile":true},"/images":{"guestpath":"/images","hostpath":"C:/DevOps/Alura/Docker/images","disabled":false,"__vagrantfile":true}}}
